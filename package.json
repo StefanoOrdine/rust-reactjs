@@ -4,7 +4,10 @@
   "repository": "",
   "description": "",
   "main": "frontend/index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "cargo run",
+    "build": "cargo build && npm install && node_modules/webpack/bin/webpack.js"
+  },
   "author": "Stefano Ordine <stefano.ordine@gmail.com>",
   "license": "ISC",
   "devDependencies": {
