@@ -1,0 +1,8 @@
+[package]
+name = "rust-react"
+version = "0.1.0"
+authors = ["Stefano Ordine <stefano.ordine@gmail.com>"]
+
+[dependencies]
+rocket = "0.1.4"
+rocket_codegen = "0.1.4"
