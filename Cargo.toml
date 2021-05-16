@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Stefano Ordine <stefano.ordine@gmail.com>"]
 
 [dependencies]
-rocket = "0.4"
+rocket = "0.42"
